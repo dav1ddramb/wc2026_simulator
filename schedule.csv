@@ -1,0 +1,105 @@
+match_no,stage,home,away,score
+1,Group,Mexico,South Africa
+2,Group,South Korea,Czechia
+3,Group,Canada,Bosnia and Herzegovina
+4,Group,United States,Paraguay
+5,Group,Haiti,Scotland
+6,Group,Australia,Turkey
+7,Group,Brazil,Morocco
+8,Group,Qatar,Switzerland
+9,Group,Ivory Coast,Ecuador
+10,Group,Germany,Curacao
+11,Group,Netherlands,Japan
+12,Group,Sweden,Tunisia
+13,Group,Saudi Arabia,Uruguay
+14,Group,Spain,Cape Verde
+15,Group,Iran,New Zealand
+16,Group,Belgium,Egypt
+17,Group,France,Senegal
+18,Group,Iraq,Norway
+19,Group,Argentina,Algeria
+20,Group,Austria,Jordan
+21,Group,Ghana,Panama
+22,Group,England,Croatia
+23,Group,Portugal,DR Congo
+24,Group,Uzbekistan,Colombia
+25,Group,Czechia,South Africa
+26,Group,Switzerland,Bosnia and Herzegovina
+27,Group,Canada,Qatar
+28,Group,Mexico,South Korea
+29,Group,Brazil,Haiti
+30,Group,Scotland,Morocco
+31,Group,Turkey,Paraguay
+32,Group,United States,Australia
+33,Group,Germany,Ivory Coast
+34,Group,Ecuador,Curacao
+35,Group,Netherlands,Sweden
+36,Group,Tunisia,Japan
+37,Group,Uruguay,Cape Verde
+38,Group,Spain,Saudi Arabia
+39,Group,Belgium,Iran
+40,Group,New Zealand,Egypt
+41,Group,Norway,Senegal
+42,Group,France,Iraq
+43,Group,Argentina,Austria
+44,Group,Jordan,Algeria
+45,Group,England,Ghana
+46,Group,Panama,Croatia
+47,Group,Portugal,Uzbekistan
+48,Group,Colombia,DR Congo
+49,Group,Scotland,Brazil
+50,Group,Morocco,Haiti
+51,Group,Switzerland,Canada
+52,Group,Bosnia and Herzegovina,Qatar,3-1
+53,Group,Czechia,Mexico
+54,Group,South Africa,South Korea
+55,Group,Curacao,Ivory Coast
+56,Group,Ecuador,Germany
+57,Group,Japan,Sweden
+58,Group,Tunisia,Netherlands
+59,Group,Turkey,United States
+60,Group,Paraguay,Australia
+61,Group,Norway,France
+62,Group,Senegal,Iraq
+63,Group,Egypt,Iran
+64,Group,New Zealand,Belgium
+65,Group,Cape Verde,Saudi Arabia
+66,Group,Uruguay,Spain
+67,Group,Panama,England
+68,Group,Croatia,Ghana
+69,Group,Algeria,Austria
+70,Group,Jordan,Argentina
+71,Group,Colombia,Portugal
+72,Group,DR Congo,Uzbekistan
+73,R32,A2,B2
+74,R32,E1,THIRD_ABCDF
+75,R32,F1,C2
+76,R32,C1,F2
+77,R32,I1,THIRD_CDFGH
+78,R32,E2,I2
+79,R32,A1,THIRD_CEFHI
+80,R32,L1,THIRD_EHIJK
+81,R32,D1,THIRD_BEFIJ
+82,R32,G1,THIRD_AEHIJ
+83,R32,K2,L2
+84,R32,H1,J2
+85,R32,B1,THIRD_EFGIJ
+86,R32,J1,H2
+87,R32,K1,THIRD_DEIJL
+88,R32,D2,G2
+89,R16,W74,W77
+90,R16,W73,W75
+91,R16,W76,W78
+92,R16,W79,W80
+93,R16,W83,W84
+94,R16,W81,W82
+95,R16,W86,W88
+96,R16,W85,W87
+97,QF,W89,W90
+98,QF,W93,W94
+99,QF,W91,W92
+100,QF,W95,W96
+101,SF,W97,W98
+102,SF,W99,W100
+103,Third,L101,L102
+104,Final,W101,W102

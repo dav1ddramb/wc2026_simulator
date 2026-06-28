@@ -1,0 +1,49 @@
+country,group,win_odds,elo
+Mexico,A,51.00,1881
+South Africa,A,2001.00,1511
+South Korea,A,251.00,1786
+Czechia,A,501.00,1712
+Canada,B,126.00,1767
+Switzerland,B,81.00,1891
+Qatar,B,2001.00,1421
+Bosnia and Herzegovina,B,301.00,1616
+Brazil,C,10.00,1991
+Morocco,C,51.00,1827
+Scotland,C,251.00,1782
+Haiti,C,2501.00,1548
+United States,D,41.00,1726
+Paraguay,D,401.00,1834
+Australia,D,501.00,1777
+Turkey,D,81.00,1911
+Germany,E,15.00,1932
+Ecuador,E,101.00,1938
+Ivory Coast,E,301.00,1695
+Curacao,E,3501.00,1434
+Netherlands,F,19.00,1948
+Sweden,F,126.00,1712
+Japan,F,51.00,1906
+Tunisia,F,501.00,1628
+Belgium,G,34.00,1894
+Egypt,G,301.00,1696
+Iran,G,501.00,1772
+New Zealand,G,2501.00,1562
+Spain,H,5.50,2157
+Uruguay,H,67.00,1892
+Saudi Arabia,H,1001.00,1576
+Cape Verde,H,2001.00,1578
+France,I,5.50,2063
+Senegal,I,126.00,1860
+Norway,I,29.00,1914
+Iraq,I,1501.00,1607
+Argentina,J,10.00,2115
+Austria,J,151.00,1830
+Algeria,J,401.00,1772
+Jordan,J,2501.00,1680
+Portugal,K,8.50,1989
+Colombia,K,41.00,1982
+Uzbekistan,K,1501.00,1714
+DR Congo,K,751.00,1652
+England,L,8.00,2024
+Croatia,L,81.00,1912
+Ghana,L,401.00,1510
+Panama,L,1501.00,1730
